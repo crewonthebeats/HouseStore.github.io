@@ -10,34 +10,7 @@ Somos una tienda online y realizamos envíos nacionales.
 Navigation Menu
 housestore
 
-Code
-Issues
-Pull requests
-tienda de ventas. todos nuestros productos son contra entrega 🚛🚛🚛 domicilio incluído 🚛🚛
 
-License
- Apache-2.0 license
- 1 star
- 0 forks
- 0 watching
- 1 Branch
- 0 Tags
- Activity
-Private repository
-crewonthebeats/housestore
-Name	
-crewonthebeats
-crewonthebeats
-6 minutes ago
-.github/workflows
-1 hour ago
-LICENSE
-5 hours ago
-README.io
-6 minutes ago
-Repository files navigation
-README
-Apache-2.0 license
 # housestore
 tienda de ventas
 
