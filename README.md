@@ -1,4 +1,4 @@
-# Housestore.io
+# Housestore
 
 **¡Síguenos en Facebook!**  
 Somos una tienda online y realizamos envíos nacionales.  
