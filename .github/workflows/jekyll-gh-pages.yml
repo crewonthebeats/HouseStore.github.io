@@ -42,7 +42,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: ${{ https://crewonthebeats.github.io/housestore.github.io/?fbclid=IwY2xjawNZU7RleHRuA2FlbQIxMQABHjSKPdve3Ch1Hv7-sd7J5BDrbboUjEy2koKAVvhSmIlDsKq2uZYE4lfC6B0Y_aem_a_fiJO7u9_eOsmwKaDbDDg }}
     runs-on: ubuntu-latest
     needs: build
     steps:
