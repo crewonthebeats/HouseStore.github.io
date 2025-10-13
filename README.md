@@ -1,7 +1,7 @@
 
 <html>
 <head>
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
+  <script src="//www.facebook.com/profile.php?id=100085233917086/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
   <link rel="stylesheet" href="style.css" />
   <title>jQuery Example</title>
   <script>
