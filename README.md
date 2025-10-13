@@ -9,6 +9,10 @@ Por solo 85.000
 Domicilio incluído
 Pago contra entrega 🚛🚛🚛
 
+
+
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_ES/sdk.js#xfbml=1&version=v24.0&appId=2034782013995400"></script>
 <div class="fb-post" data-href="https://www.facebook.com/permalink.php?story_fbid=pfbid02nLfJXhEXApHnXNHXACDAW3pDHvPpwvKCoBreE4h3o4Mi87BEGCEnVCetNz1p6gF6l&amp;id=100085233917086" data-width="500" data-show-text="true"><blockquote cite="https://www.facebook.com/permalink.php?story_fbid=766292276221896&amp;id=100085233917086" class="fb-xfbml-parse-ignore"><p>https://housestore10.blogspot.com/2025/09/envios-nacionales.html</p>Publicada por <a href="https://www.facebook.com/people/House-Store/100085233917086/">House Store</a> en&nbsp;<a href="https://www.facebook.com/permalink.php?story_fbid=766292276221896&amp;id=100085233917086">Lunes, 29 de septiembre de 2025</a></blockquote></div>
 
 
