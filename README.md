@@ -27,18 +27,10 @@ Diseñada para los que aman la carretera, práctica, resistente y con todo el es
 
 
 [
-<script>
-  window.fbAsyncInit = function() {
-    FB.init({
-      xfbml      : true,
-      version    : 'v24.0'
-    });
-  }; 
-</script>
-<script async defer src="https://connect.facebook.net/en_US/sdk.js"></script>
-  
-<div 
-  class="fb-post" 
-  data-href="[https://www.facebook.com/20531316728/posts/10154009990506729/](https://www.facebook.com/photo/?fbid=769246725926451&set=pb.100085233917086.-2207520000)" 
-  data-width="500"></div>
-](https://www.facebook.com/photo/?fbid=769246725926451&set=pb.100085233917086.-2207520000)
+
+
+
+<img data-visualcompletion="media-vc-image" class="x15mokao x1ga7v0g x16uus16 xbiv7yw x1bwycvy x193iq5w x4fas0m x19kjcj4" alt="Puede ser una imagen de 3 personas, teléfono y texto" referrerpolicy="origin-when-cross-origin" src="https://scontent.feoh3-1.fna.fbcdn.net/v/t39.30808-6/556967426_769246729259784_5305641279046195913_n.jpg?_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=833d8c&amp;_nc_eui2=AeHpr4hVErjlD61FFCjQcxhndnMlHr0kEUV2cyUevSQRRUEtC3A8bHXe2iYR1FaZ5onXAEZYbdkDylboTS_pMxu7&amp;_nc_ohc=-ALZRmzl_LsQ7kNvwHD4KAQ&amp;_nc_oc=Adlqa_j94ZSwIZXTEHfDBXsXPPZmGG5iuFVqKUD0k-nFfgtamCMUSINgyfhysxWMh9bPjSAGLRa_V5GE8vkO1sk4&amp;_nc_zt=23&amp;_nc_ht=scontent.feoh3-1.fna&amp;_nc_gid=4PJrKNM2gXgSdFHExmpWGQ&amp;oh=00_Afce8zlsOM6nZH1gK7vONU2sUwBUfV-bBbab7JTKLHyFVA&amp;oe=68F22BF6">
+
+
+
