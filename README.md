@@ -18,8 +18,6 @@ hacemos envios nacionales
 pagos contra entrega 
 
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0zhxJG3ES8j5zDZ5qgTJ8YhrBx1U5cyqMmtovUQ8ae7nV61Y62TzaHJG9k5QM3897l%26id%3D100085233917086&show_text=true&width=500" width="500" height="426" style="border:none;overflow:hidden" scrolling="si" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
 
 
 ![560114526_1230826938850704_8656234551720273321_n](https://github.com/user-attachments/assets/63cec45e-5c9f-4b94-97c4-5830e9634092)
