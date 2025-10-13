@@ -24,3 +24,20 @@ Diseñada para los que aman la carretera, práctica, resistente y con todo el es
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4QVdyvYqwvLn3vitLcOZSaJIACAjcVMIyopFSyUH40DEkFXZ4cIlEdJ89TkIzY-w1_Ssodn8EdmNlyDRgtDEWe0f_IytIQ2hjhv1B9Y6tRQFIQTUZzIYZ-v5vgFoV63-xjmKMuLo_GtCyBaivuXuWLEbwtO7sR6m5CuQFouaCDugJ_-xt4AHsWmnmsXXf/s1200/173472781702.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1200" data-original-width="1200" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4QVdyvYqwvLn3vitLcOZSaJIACAjcVMIyopFSyUH40DEkFXZ4cIlEdJ89TkIzY-w1_Ssodn8EdmNlyDRgtDEWe0f_IytIQ2hjhv1B9Y6tRQFIQTUZzIYZ-v5vgFoV63-xjmKMuLo_GtCyBaivuXuWLEbwtO7sR6m5CuQFouaCDugJ_-xt4AHsWmnmsXXf/s320/173472781702.jpg" width="320" /></a></div><br />
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgm5nVHmB530kFzjSn1GvGau_vZO2aEyb9lcKVaXdD-5bj5EzIGroJo46-AU8kh0LsY7e5HS5bXLospkvvulXUKWxowrkF4HSh0hcJw98_u5mdDKDdJsBtqqrD21C67RTIjul5mJHdX43hJURL6wBS14zDX3ftWRdy_2Gq_UA0R_AfK5BE9d2wMSgHKUod6/s800/170301527817030152786n.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="800" data-original-width="800" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgm5nVHmB530kFzjSn1GvGau_vZO2aEyb9lcKVaXdD-5bj5EzIGroJo46-AU8kh0LsY7e5HS5bXLospkvvulXUKWxowrkF4HSh0hcJw98_u5mdDKDdJsBtqqrD21C67RTIjul5mJHdX43hJURL6wBS14zDX3ftWRdy_2Gq_UA0R_AfK5BE9d2wMSgHKUod6/s320/170301527817030152786n.jpg" width="320" /></a></div><br />
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi85l2QNhKeoCotBzZfPh7-IVF5wr6ImfbGJnfMa7SaINb_spcvyMIpi5rC5Nf8SzmIWFP2MGDy3Ydtx9FjtoObfrd6hEFjiuYaamTN8KkOax3PLMoCh3RnqWS_XRKZlTnVKNO43PPqkp27xhNtFyLl3YGNKPE6mz2Tz_Ac_ZXitq7y0_Dr-4VnLCU4NQTT/s1200/1751573876Chaqueta%20Impermeable%20Reflectiva%20con%20Capota%20y%20Visera%20Alta%20Visibilidad%20y%20Protecci%C3%B3n%20CI002%204.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1200" data-original-width="1200" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi85l2QNhKeoCotBzZfPh7-IVF5wr6ImfbGJnfMa7SaINb_spcvyMIpi5rC5Nf8SzmIWFP2MGDy3Ydtx9FjtoObfrd6hEFjiuYaamTN8KkOax3PLMoCh3RnqWS_XRKZlTnVKNO43PPqkp27xhNtFyLl3YGNKPE6mz2Tz_Ac_ZXitq7y0_Dr-4VnLCU4NQTT/s320/1751573876Chaqueta%20Impermeable%20Reflectiva%20con%20Capota%20y%20Visera%20Alta%20Visibilidad%20y%20Protecci%C3%B3n%20CI002%204.jpg" width="320" /></a></div><br /><p dir="ltr"><br /></p>
+
+
+
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      xfbml      : true,
+      version    : 'v24.0'
+    });
+  }; 
+</script>
+<script async defer src="https://connect.facebook.net/en_US/sdk.js"></script>
+  
+<div 
+  class="fb-post" 
+  data-href="[https://www.facebook.com/20531316728/posts/10154009990506729/](https://www.facebook.com/photo/?fbid=769246725926451&set=pb.100085233917086.-2207520000)" 
+  data-width="500"></div>
