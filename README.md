@@ -3,17 +3,16 @@
 <!DOCTYPE html>
 <html class='v2' dir='ltr' lang='es'>
 <head>
-<link href='https://www.blogger.com/static/v1/widgets/4128112664-css_bundle_v2.css' rel='stylesheet' type='text/css'/>
 <meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
 <meta content='blogger' name='generator'/>
 <link href='https://housestore10.blogspot.com/favicon.ico' rel='icon' type='image/x-icon'/>
 <link href='https://housestore10.blogspot.com/' rel='canonical'/>
 <link rel="alternate" type="application/atom+xml" title="House Store  - Atom" href="https://housestore10.blogspot.com/feeds/posts/default" />
 <link rel="alternate" type="application/rss+xml" title="House Store  - RSS" href="https://housestore10.blogspot.com/feeds/posts/default?alt=rss" />
-<link rel="service.post" type="application/atom+xml" title="House Store  - Atom" href="https://www.blogger.com/feeds/2127744623125977355/posts/default" />
-<link rel="me" href="https://www.blogger.com/profile/12957986356038343513" />
+<link rel="service.post" type="application/atom+xml" title="House Store  - 
+
 <!--Can't find substitution for tag [blog.ieCssRetrofitLinks]-->
-<meta content='https://housestore10.blogspot.com/' property='og:url'/>
+
 <meta content='House Store ' property='og:title'/>
 <meta content='' property='og:description'/>
 <title>House Store </title>
@@ -169,18 +168,7 @@ width: 800px;
 min-width: 0;
 width: auto;
 }
---></style>
-<script src='//www.blogblog.com/dynamicviews/fe77985009f43787/js/common.js' type='text/javascript'></script>
-<script src='//www.blogblog.com/dynamicviews/fe77985009f43787/js/languages/lang__es.js' type='text/javascript'></script>
-<script src='//www.blogblog.com/dynamicviews/fe77985009f43787/js/snapshot.js' type='text/javascript'></script>
-<script src='//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js'></script>
-<link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=2127744623125977355&amp;zx=16cdaee3-3721-454f-a0e3-6be3c6759783' media='none' onload='if(media!=&#39;all&#39;)media=&#39;all&#39;' rel='stylesheet'/><noscript><link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=2127744623125977355&amp;zx=16cdaee3-3721-454f-a0e3-6be3c6759783' rel='stylesheet'/></noscript>
-<meta name='google-adsense-platform-account' content='ca-host-pub-1556223355139109'/>
-<meta name='google-adsense-platform-domain' content='blogspot.com'/>
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4569993478889410&host=ca-host-pub-1556223355139109" crossorigin="anonymous"></script>
-
-<!-- data-ad-client=ca-pub-4569993478889410 -->
 
 </head>
 <body class='variant-snapshot'>
