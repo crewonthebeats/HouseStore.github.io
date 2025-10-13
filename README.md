@@ -26,7 +26,7 @@ Diseñada para los que aman la carretera, práctica, resistente y con todo el es
 <div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi85l2QNhKeoCotBzZfPh7-IVF5wr6ImfbGJnfMa7SaINb_spcvyMIpi5rC5Nf8SzmIWFP2MGDy3Ydtx9FjtoObfrd6hEFjiuYaamTN8KkOax3PLMoCh3RnqWS_XRKZlTnVKNO43PPqkp27xhNtFyLl3YGNKPE6mz2Tz_Ac_ZXitq7y0_Dr-4VnLCU4NQTT/s1200/1751573876Chaqueta%20Impermeable%20Reflectiva%20con%20Capota%20y%20Visera%20Alta%20Visibilidad%20y%20Protecci%C3%B3n%20CI002%204.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1200" data-original-width="1200" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi85l2QNhKeoCotBzZfPh7-IVF5wr6ImfbGJnfMa7SaINb_spcvyMIpi5rC5Nf8SzmIWFP2MGDy3Ydtx9FjtoObfrd6hEFjiuYaamTN8KkOax3PLMoCh3RnqWS_XRKZlTnVKNO43PPqkp27xhNtFyLl3YGNKPE6mz2Tz_Ac_ZXitq7y0_Dr-4VnLCU4NQTT/s320/1751573876Chaqueta%20Impermeable%20Reflectiva%20con%20Capota%20y%20Visera%20Alta%20Visibilidad%20y%20Protecci%C3%B3n%20CI002%204.jpg" width="320" /></a></div><br /><p dir="ltr"><br /></p>
 
 
-
+[
 <script>
   window.fbAsyncInit = function() {
     FB.init({
@@ -41,3 +41,4 @@ Diseñada para los que aman la carretera, práctica, resistente y con todo el es
   class="fb-post" 
   data-href="[https://www.facebook.com/20531316728/posts/10154009990506729/](https://www.facebook.com/photo/?fbid=769246725926451&set=pb.100085233917086.-2207520000)" 
   data-width="500"></div>
+](https://www.facebook.com/photo/?fbid=769246725926451&set=pb.100085233917086.-2207520000)
