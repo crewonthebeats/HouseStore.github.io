@@ -4,7 +4,7 @@
 
 
 Aprovecha ya
-Por solo 85.000
+Por solo 98.000
 
 Domicilio incluído
 Pago contra entrega 🚛🚛🚛
