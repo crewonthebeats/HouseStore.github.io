@@ -6,7 +6,7 @@
   
 
 
-<img width="368" height="351" alt="fafw" src="https://github.com/user-attachments/assets/db1a4a31-d6dc-4891-9216-c17ab042bfcf" />    <img width="472" height="439" alt="daf" src="https://github.com/user-attachments/assets/840380f9-d937-4197-9391-22360c7df6a6" />
+<img width="368" height="351" alt="fafw" src="https://github.com/user-attachments/assets/db1a4a31-d6dc-4891-9216-c17ab042bfcf" />    <img width="368" height="351" alt="daf" src="https://github.com/user-attachments/assets/840380f9-d937-4197-9391-22360c7df6a6" />
 
 
 
