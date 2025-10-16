@@ -1,42 +1,52 @@
 
+
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+
+
+
 <img width="768" height="130" alt="generated_text" src="https://github.com/user-attachments/assets/d37d6309-f397-4332-b160-121137d515c9" />
 
 
 
   
 
+              $88.000                                         $80.000 
+<img width="360" height="351" alt="fafw" src="https://github.com/user-attachments/assets/db1a4a31-d6dc-4891-9216-c17ab042bfcf" />  
+<img width="368" height="351" alt="fafw" src="https://github.com/user-attachments/assets/840380f9-d937-4197-9391-22360c7df6a6" />  
+<img width="368" height="351" alt="fafw" src="https://github.com/user-attachments/assets/175a8b42-7a8c-4958-89dd-4641fced9501" />
 
-<img width="368" height="351" alt="fafw" src="https://github.com/user-attachments/assets/db1a4a31-d6dc-4891-9216-c17ab042bfcf" />    <img width="368" height="351" alt="fafw" src="https://github.com/user-attachments/assets/840380f9-d937-4197-9391-22360c7df6a6" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  <link rel="stylesheet" href="style.css" 
+    body { margin: 35px; 
+    padding: 0; 
+    box-sizing:
+    }
+ {
+  background: white;
+  padding: 40px;
+  border-radius: 8px;
+  max-width: 2800px;
+  margin: 0 auto;
+  }
+  >
 
 
+  
+</head>
+<body>
 
-
-
-
-
-
-
-
-
-
+  
+  <header>…</header>
+  <main>
+    <section class="contenido">
+      <h1>Bienvenido</h1>
+      <p>Texto de ejemplo.</p>
+    </section>
+  </main>
+  <footer>…</footer>
+</body>
+</html>
 
 
 
