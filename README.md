@@ -12,7 +12,7 @@
 
   
 
-              $88.000                                         $80.000 
+                     
 <img width="360" height="351" alt="fafw" src="https://github.com/user-attachments/assets/db1a4a31-d6dc-4891-9216-c17ab042bfcf" />  
 <img width="368" height="351" alt="fafw" src="https://github.com/user-attachments/assets/840380f9-d937-4197-9391-22360c7df6a6" />  
 <img width="368" height="351" alt="fafw" src="https://github.com/user-attachments/assets/175a8b42-7a8c-4958-89dd-4641fced9501" />
